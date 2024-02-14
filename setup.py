@@ -57,4 +57,5 @@ setup(
         'console_scripts': [
             'wafw00f = wafw00f.main:main'
         ]
+    }
 )
