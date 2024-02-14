@@ -53,4 +53,8 @@ setup(
             'Sphinx',
         ],
     },
+    entry_points={
+        'console_scripts': [
+            'wafw00f = wafw00f.main:main'
+        ]
 )
